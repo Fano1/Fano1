@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Fano1
 - 👀 I’m interested in Coding diffrent things
-- 🌱 I’m currently learning python, javascript and c#
+- ✨ I am recently learnt Java, C# and many more
+- 🌱 I’m learnt learning python, javascript, c++, c ,GD script, HTML, CSS, React, Firebase, Arduino and so on
 - 💞️ I’m looking to collaborate on may things
 - 📫 How to reach me idk man
 
