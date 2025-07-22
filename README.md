@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Fano's README</title>
 
 <h1>Hey, I'm Fano </h1>
 
