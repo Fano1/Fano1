@@ -1,11 +1,83 @@
-# Fano's README 🚀
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Fano's README</title>
 
-## About Me
-Hey there! I'm Fano — a passionate coder and tech enthusiast who loves diving deep into programming languages, frameworks, and everything in between. From low-level Assembly to high-flying AI with PyTorch, I’m all about building cool stuff and pushing limits. Let’s make some magic happen! ✨
+<h1>Hey, I'm Fano </h1>
+
+<p style="text-align:center; font-size:1.1rem;">
+  Full-stack Dev | AI Tamer | Game Dabbler | Robotics enjoyer<br />
+  <i>I write code, break stuff, fix it better, and occasionally pretend it's all intentional.</i>
+</p>
+
+<hr />
+
+<h2>Current Projects</h2>
+<ul>
+  <li>Building own GPT with langchain + pytorch</li>
+  <li>Robotics projetcs -> ldec</li>
+  <li>Tinkering with Unity for physics-based chaos</li>
+  <li>Low-level graphic geekery with C++</li>
+  <li>Absolute Cinema with QRcode Generator</li>
+</ul>
+
+<hr />
+
+<h2>Philosophy</h2>
+<blockquote>
+  "Code like nobody’s watching. Debug like everyone’s blaming you."
+</blockquote>
+
+<hr />
+
+<h2>Let's Talk Code</h2>
+<ul>
+  <li>Email: <code>hell.ice566@gmail.com</code></li>
+  <li>DM me on Discord, GitHub issues, or psychic pigeon</li>
+  <li>Stalking my repos is not just allowed — it’s encouraged</li>
+  <li>My cringy selfsite <code>https://fano.carrd.co</code></li>
+</ul>
+
+<hr />
+
+<h2>Random Dev Facts</h2>
+<ul>
+  <li>I once trained a model that learned... to do nothing. Successfully.</li>
+  <li>I type faster than I debug.</li>
+  <li>I still think <code>C++</code> is just <code>C</code> cosplaying as Python.</li>
+  <li>Yes, I use dark theme. I’m not a monster.</li>
+</ul>
+
+<hr />
+
+<h2>GitHub Stats</h2>
+<p style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fano1&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<hr />
+
+<h2>Bonus Points If You Read This Far</h2>
+<blockquote>
+  “Any sufficiently advanced bug is indistinguishable from a feature.” — Me, probably hallucinating
+</blockquote>
+
+<h2>Tech Toolbox</h2>
+<ul>
+  <li><b>Languages:</b> Python, C, C++, C#, Java, JavaScript, HTML/CSS, QBasic, Assembly</li>
+  <li><b>Frameworks:</b> Flask, React, Unity, LangChain</li>
+  <li><b>AI/ML:</b> PyTorch, TensorFlow</li>
+  <li><b>Tools & DevOps:</b> Docker, Git, Linux, VSCode, GitHub</li>
+  <li><b>Databases:</b> MongoDB</li>
+  <li><b>Others:</b> Blender, Robotics, Full-Stack Development</li>
+</ul>
+
+<hr />
 
 ---
-
-## Tech Stack 🔥
+## Tech Stack 
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -35,13 +107,5 @@ Hey there! I'm Fano — a passionate coder and tech enthusiast who loves diving 
 
 ---
 
-## Contact Me 📫
-Feel free to connect or stalk me on GitHub or shoot me a message. Let’s collab, build, or just chat about the madness of code!
-
-- GitHub: [github.com/Fano](https://github.com/Fano)
-- Email: youremail@example.com  
-*(Replace this with your actual email or preferred contact method)*
-
----
-
-*Powered by caffeine, bad jokes, and a relentless thirst for knowledge.*
+</body>
+</html>
