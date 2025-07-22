@@ -36,7 +36,7 @@
   <li>Email: <code>hell.ice566@gmail.com</code></li>
   <li>DM me on Discord, GitHub issues, or psychic pigeon</li>
   <li>Stalking my repos is not just allowed — it’s encouraged</li>
-  <li>My cringy selfsite <code>https://fano.carrd.co</code></li>
+  <li>My cringy selfsite <code></code></li>
 </ul>
 
 <hr />
