@@ -22,7 +22,6 @@
   <li>Absolute Cinema with QRcode Generator</li>
   <li>Creating a "Nice" 3D desktop Assistant</li>
   <li>Making a Simuated Generation evolution network</li>
-  <li>Teaching an AI on how to play snake</li>
 </ul>
 
 <hr />
