@@ -17,9 +17,12 @@
 <ul>
   <li>Building own GPT with langchain + pytorch</li>
   <li>Robotics projetcs -> ldec</li>
-  <li>Tinkering with Unity for physics-based chaos</li>
-  <li>Low-level graphic geekery with C++</li>
+  <li>Tinkering with Unity for a horror game</li>
+  <li>Low-level graphic geekery with C++ for a physics engine</li>
   <li>Absolute Cinema with QRcode Generator</li>
+  <li>Creating a "Nice" 3D desktop Assistant</li>
+  <li>Making a Simuated Generation evolution network</li>
+  <li>Teaching an AI on how to play snake</li>
 </ul>
 
 <hr />
