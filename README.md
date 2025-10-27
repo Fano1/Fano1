@@ -73,7 +73,7 @@
   <li><b>AI/ML:</b> PyTorch, TensorFlow, Sci-kit-learn, YOLO, MediaPipe, OpenCV, Pandas, Numpy</li>
   <li><b>Tools & DevOps:</b> Docker, Git, Linux, VSCode, GitHub, Linux</li>
   <li><b>Databases:</b> MongoDB, SQlite</li>
-  <li><b>Packages:</b> Langchain, APIS, websocket</li>
+  <li><b>Packages:</b> Langchain, APIS, websocket, Pixiv, ThreeJS</li>
   <li><b>Others:</b> Blender, Robotics, Full-Stack Development, Unity, Ungodly Vibe Coding</li>
 </ul>
 
