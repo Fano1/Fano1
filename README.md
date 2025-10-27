@@ -16,6 +16,7 @@
 <h2>Current Projects</h2>
 <ul>
   <li>Building own GPT with langchain + pytorch</li>
+  <li>Creating own programming langugae and compiler</li>
   <li>Robotics projetcs -> ldec</li>
   <li>Tinkering with Unity for a horror game</li>
   <li>Low-level graphic geekery with C++ for a physics engine</li>
@@ -68,11 +69,12 @@
 <h2>Tech Toolbox</h2>
 <ul>
   <li><b>Languages:</b> Python, C, C++, C#, Java, JavaScript, HTML/CSS, QBasic, Assembly</li>
-  <li><b>Frameworks:</b> Flask, React, Unity, LangChain</li>
-  <li><b>AI/ML:</b> PyTorch, TensorFlow</li>
-  <li><b>Tools & DevOps:</b> Docker, Git, Linux, VSCode, GitHub</li>
-  <li><b>Databases:</b> MongoDB</li>
-  <li><b>Others:</b> Blender, Robotics, Full-Stack Development</li>
+  <li><b>Frameworks:</b> Flask, FastAPI, React, Solid</li>
+  <li><b>AI/ML:</b> PyTorch, TensorFlow, Sci-kit-learn, YOLO, MediaPipe, OpenCV, Pandas, Numpy</li>
+  <li><b>Tools & DevOps:</b> Docker, Git, Linux, VSCode, GitHub, Linux</li>
+  <li><b>Databases:</b> MongoDB, SQlite</li>
+  <li><b>Packages:</b> Langchain, APIS, websocket</li>
+  <li><b>Others:</b> Blender, Robotics, Full-Stack Development, Unity, Ungodly Vibe Coding</li>
 </ul>
 
 <hr />
@@ -80,7 +82,7 @@
 ---
 ## Tech Stack 
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
