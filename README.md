@@ -23,6 +23,9 @@
   <li>Absolute Cinema with QRcode Generator</li>
   <li>Creating a "Nice" 3D desktop Assistant</li>
   <li>Making a Simuated Generation evolution network</li>
+  <li>Edu YT shorts app
+  <li>Finance management app
+  <li>Portfolio website 
 </ul>
 
 <hr />
