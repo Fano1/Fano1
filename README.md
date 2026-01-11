@@ -71,47 +71,16 @@
 
 <h2>Tech Toolbox</h2>
 <ul>
-  <li><b>Languages:</b> Python, Rust, C, C++, C#, Java, JavaScript, HTML/CSS, QBasic, Assembly, Solidity, GDScript</li>
-  <li><b>Frameworks:</b> Flask, FastAPI, React, Solid</li>
+  <li><b>Languages:</b> Python, C, C++, C#, JavaScript, HTML/CSS, QBasic, Assembly, Solidity, GDScript</li>
+  <li><b>Frameworks:</b> Flask, FastAPI, Django, React, Solid</li>
   <li><b>AI/ML:</b> PyTorch, TensorFlow, Sci-kit-learn, YOLO, MediaPipe, OpenCV, Pandas, Numpy</li>
-  <li><b>Tools & DevOps:</b> Docker, Git, Linux, VSCode, GitHub, Linux</li>
-  <li><b>Databases:</b> MongoDB, SQlite, ChromaDB</li>
-  <li><b>Packages:</b> Langchain, Langgraph, APIS, websocket, Pixiv, ThreeJS</li>
-  <li><b>Others:</b> Blender, Robotics, Full-Stack Development, Unity, Ungodly Vibe Coding</li>
+  <li><b>Tools & DevOps:</b> Docker, Git, VSCode, GitHub, Linux</li>
+  <li><b>Databases:</b> MongoDB, POSTGRES, SQlite, ChromaDB</li>
+  <li><b>Packages:</b> Langchain, Langgraph, websocket, Pixiv, ThreeJS</li>
+  <li><b>Others:</b> Blender, Robotics, Unity, Ungodly Vibe Coding</li>
 </ul>
 
 <hr />
-
----
-## Tech Stack 
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![QBasic](https://img.shields.io/badge/QBasic-008080?style=for-the-badge&logo=visual-basic&logoColor=white)
-- ![Assembly](https://img.shields.io/badge/Assembly-6E4B25?style=for-the-badge&logo=assemblyscript&logoColor=white)
-- ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Robotics](https://img.shields.io/badge/Robotics-0078D7?style=for-the-badge&logo=robotframework&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-- ![Full Stack](https://img.shields.io/badge/Full_Stack-333333?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
----
 
 </body>
 </html>
