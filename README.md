@@ -72,7 +72,7 @@
 <h2>Tech Toolbox</h2>
 <ul>
   <li><b>Languages:</b> Python, C, C++, C#, JavaScript, HTML/CSS, QBasic, Assembly, Solidity, GDScript</li>
-  <li><b>Frameworks:</b> Flask, FastAPI, Django, React, Solid</li>
+  <li><b>Frameworks:</b> Flask, FastAPI, Django, Solid</li>
   <li><b>AI/ML:</b> PyTorch, TensorFlow, Sci-kit-learn, YOLO, MediaPipe, OpenCV, Pandas, Numpy</li>
   <li><b>Tools & DevOps:</b> Docker, Git, VSCode, GitHub, Linux</li>
   <li><b>Databases:</b> MongoDB, POSTGRES, SQlite, ChromaDB</li>
